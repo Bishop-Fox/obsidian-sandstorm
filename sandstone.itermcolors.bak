@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>-color</key>
+<string>#A27F47</string>
+<key>--tag-background</key>
+<string>#EBCA97</string>
+<key>--text-selection</key>
+<string>#782b1d</string>
+<key>--color-red</key>
+<string>#fb464c</string>
+<key>--color-orange</key>
+<string>#e9973f</string>
+<key>--color-yellow</key>
+<string>#e0de71</string>
+<key>--color-green</key>
+<string>#44cf6e</string>
+<key>--color-cyan</key>
+<string>#53dfdd</string>
+<key>--color-blue</key>
+<string>#027aff</string>
+<key>--color-purple</key>
+<string>#a882ff</string>
+<key>--color-pink</key>
+<string>#fa99cd</string>
+<key>--color-accent</key>
+<string>#937340</string>
+<key>--hr-color</key>
+<string>#782A1D</string>
+<key>--interactive-accent</key>
+<string>#782A1D</string>
+<key>background-color</key>
+<string>#191919</string>
+<key>color</key>
+<string>#f7f7f7</string>
+<key>stroke</key>
+<string>#c0c0c0</string>
+</dict>
+</plist>
